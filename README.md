@@ -1,6 +1,15 @@
 # nuxt-my-template
+自分用のNuxt.jsで静的サイト作る時のテンプレ
 
-> My peachy Nuxt.js project
+# 自分で入れたパッケージ
+* Sass / Scss
+* Pug
+* http server
+* sitemap
+* Google Analytics
+* Style resources
+* husky
+* modern normalize
 
 ## Build Setup
 
